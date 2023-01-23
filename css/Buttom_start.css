@@ -45,23 +45,8 @@ button:active {
     transform: scale(0.9);
 }
 
-/* .container{
-    position: relative;
-} */
-
-/* .container span {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-} */
-
 .container {
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
-}
-
-.container span {
-    margin: auto;
-    bottom: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
