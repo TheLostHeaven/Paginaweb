@@ -2,14 +2,12 @@
     color: white;
     font-family: monospace;
     display: flex;
-    /* border-right: 4px solid; */
-    display: flex;
     justify-content: center;
     align-items: center;
     font-size: 40px;
     text-align: center;
     margin: 100px 0%;
-    border-color: red;
+    border-color: white;
 
 }
 
