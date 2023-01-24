@@ -9,7 +9,7 @@ body {
     background-color:#000;
     color: #fff;
     font-size: 18px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'IBM Plex Mono', monospace;
     font-weight: 300;
 }
 
@@ -60,7 +60,7 @@ body {
     text-decoration: none;
     color: #fff;
     font-size: 19px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'IBM Plex Mono', monospace;
     font-weight: 400;
     text-transform: uppercase;
     border-bottom: 1px solid transparent;
@@ -121,4 +121,10 @@ body {
     42%, 44%, 46%,48%,  50%  { 
         opacity: 0; 
     }
+}
+
+.body-pages{
+    letter-spacing: 1px;
+    text-align: center;
+    
 }
