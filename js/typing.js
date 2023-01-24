@@ -1,4 +1,4 @@
-let text = "Bienvenidos a mi pagina web";
+let text = "¡Hola! Soy Daniel Molina y bienvenidos a mi pagina web";
 let i = 0;
 let typingText = document.getElementById("typing-text");
 
