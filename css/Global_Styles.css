@@ -126,5 +126,10 @@ body {
 .body-pages{
     letter-spacing: 1px;
     text-align: center;
-    
+
+}
+
+.parrafo{
+    text-align: center;
+    margin: 100px;
 }
